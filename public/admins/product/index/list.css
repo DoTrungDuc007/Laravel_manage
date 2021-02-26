@@ -1,0 +1,9 @@
+.product_image_150_100{
+     width: 20%;
+     
+     object-fit: cover;
+}
+.image_detail_product{
+     width: 100%;
+     object-fit: cover;
+}
